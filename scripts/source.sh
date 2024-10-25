@@ -1,4 +1,4 @@
-cd /afs/cern.ch/work/d/dapullia/public/dune/daq-dune/4.4.1
-source /afs/cern.ch/work/d/dapullia/public/dune/daq-dune/4.4.1/env.sh
-cd /afs/cern.ch/work/d/dapullia/public/dune/protodune/event_plotter/scripts
-export PYTHONPATH=/afs/cern.ch/work/d/dapullia/public/dune/protodune/neutrino_search/external_libs/lib/python3.10/site-packages:$PYTHONPATH
+cd /data/anaconda/lib
+source /data/anaconda/lib/myenv.sh
+cd /home/benedetta/padstat/scripts
+export PYTHONPATH=/data/anaconda/lib/python3.10/site-packages:$PYTHONPATH
